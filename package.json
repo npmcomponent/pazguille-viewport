@@ -1,0 +1,16 @@
+{
+  "name": "pazguille-viewport",
+  "description": "Gets the dimensions of the Viewport and beyond",
+  "version": "0.1.1",
+  "keywords": [
+    "viewport",
+    "dimensions",
+    "device",
+    "window",
+    "coordinates"
+  ],
+  "dependencies": {
+    "pazguille-jvent": "git://github.com/npmcomponent/pazguille-jvent.git"
+  },
+  "license": "MIT"
+}

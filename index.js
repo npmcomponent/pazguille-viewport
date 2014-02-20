@@ -4,7 +4,7 @@
 var win = window,
     doc = win.document,
     docEl = doc.documentElement,
-    Jvent = require('jvent'),
+    Jvent = require('pazguille-jvent'),
     on = win.addEventListener || win.attachEvent,
     RESIZE = (on === win.attachEvent) ? 'onresize' : 'resize',
     SCROLL = (on === win.attachEvent) ? 'onscroll' : 'scroll',
